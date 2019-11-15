@@ -8,9 +8,13 @@
 ## Build site locally
 
 _Open a terminal_
+
 `$ git clone https://github.com/ArchaeoDani/website.git`
+
 `$ bundle install`
+
 `$ bundle update`
+
 `$ bundle exec jekyll serve`
 
 _Open a web browser_
