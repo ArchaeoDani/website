@@ -28,6 +28,7 @@ collections:
         file: '_pages/about.md'
         fields:
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'single' }
+          - { label: 'Permalink', name: 'permalink', widget: 'hidden', default: '/about/' }
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: 'Contact'
@@ -35,6 +36,7 @@ collections:
         file: '_pages/contact.md'
         fields:
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'single' }
+          - { label: 'Permalink', name: 'permalink', widget: 'hidden', default: '/contact/' }
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: 'MAPA'
@@ -42,6 +44,7 @@ collections:
         file: '_pages/mapa.md'
         fields:
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'single' }
+          - { label: 'Permalink', name: 'permalink', widget: 'hidden', default: '/mapa/' }
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: 'Resources'
@@ -49,6 +52,7 @@ collections:
         file: '_pages/resources.md'
         fields:
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'single' }
+          - { label: 'Permalink', name: 'permalink', widget: 'hidden', default: '/resources/' }
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: 'Social'
@@ -56,5 +60,6 @@ collections:
         file: '_pages/social.md'
         fields:
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'single' }
+          - { label: 'Permalink', name: 'permalink', widget: 'hidden', default: '/social/' }
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
