@@ -26,6 +26,7 @@ collections:
       - label: 'About'
         name: 'about'
         file: '_pages/about.md'
+        slug: '{{title}}'
         fields:
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'single' }
           - { label: 'Permalink', name: 'permalink', widget: 'hidden', default: '/about/' }
@@ -34,6 +35,7 @@ collections:
       - label: 'Contact'
         name: 'contact'
         file: '_pages/contact.md'
+        slug: '{{title}}'
         fields:
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'single' }
           - { label: 'Permalink', name: 'permalink', widget: 'hidden', default: '/contact/' }
@@ -42,6 +44,7 @@ collections:
       - label: 'MAPA'
         name: 'mapa'
         file: '_pages/mapa.md'
+        slug: '{{title}}'
         fields:
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'single' }
           - { label: 'Permalink', name: 'permalink', widget: 'hidden', default: '/mapa/' }
@@ -50,6 +53,7 @@ collections:
       - label: 'Resources'
         name: 'resources'
         file: '_pages/resources.md'
+        slug: '{{title}}'
         fields:
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'single' }
           - { label: 'Permalink', name: 'permalink', widget: 'hidden', default: '/resources/' }
@@ -58,6 +62,7 @@ collections:
       - label: 'Social'
         name: 'social'
         file: '_pages/social.md'
+        slug: '{{title}}'
         fields:
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'single' }
           - { label: 'Permalink', name: 'permalink', widget: 'hidden', default: '/social/' }
