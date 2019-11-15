@@ -1,0 +1,4 @@
+---
+title: Social
+permalink: /social/
+---
