@@ -34,18 +34,18 @@ collections:
       - label: 'Contact'
         name: 'contact'
         file: '_pages/contact.md'
-        slug: '{{title}}'
         fields:
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'single' }
           - { label: 'Title', name: 'title', widget: 'string' }
+          - {label: "permalink", name: "permalink", widget: "hidden", default: "/contact/"}
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: 'MAPA'
         name: 'mapa'
         file: '_pages/mapa.md'
-        slug: '{{title}}'
         fields:
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'single' }
           - { label: 'Title', name: 'title', widget: 'string' }
+          - {label: "permalink", name: "permalink", widget: "hidden", default: "/mapa/"}
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: 'Resources'
         name: 'resources'
@@ -54,13 +54,13 @@ collections:
         fields:
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'single' }
           - { label: 'Title', name: 'title', widget: 'string' }
+          - {label: "permalink", name: "permalink", widget: "hidden", default: "/resources/"}
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: 'Social'
         name: 'social'
         file: '_pages/social.md'
-        slug: '{{title}}'
         fields:
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'single' }
-          - { label: 'Permalink', name: 'permalink', widget: 'hidden', default: '/social/' }
           - { label: 'Title', name: 'title', widget: 'string' }
+          - {label: "permalink", name: "permalink", widget: "hidden", default: "/social/"}
           - { label: 'Body', name: 'body', widget: 'markdown' }
