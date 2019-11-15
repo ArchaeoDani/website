@@ -1,8 +1,9 @@
 ---
 title: About
-permalink: /about/
 ---
 ### The Project
+
+My name is Daniela!
 
 ### The Chachapoya
 
