@@ -1,4 +1,6 @@
 # website
+- Current: https://distracted-jones-ff23dd.netlify.com
+- Admin: https://distracted-jones-ff23dd.netlify.com/admin/
 
 ## Prerequisites
 - [Ruby](https://www.ruby-lang.org/en/)
