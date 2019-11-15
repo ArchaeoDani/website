@@ -26,10 +26,9 @@ collections:
       - label: 'About'
         name: 'about'
         file: '_pages/about.md'
-        slug: '{{title}}'
         fields:
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'single' }
-          - { label: 'Permalink', name: 'permalink', widget: 'hidden', default: '/about/' }
+          - {label: "permalink", name: "permalink", widget: "hidden", default: "/about/"}
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: 'Contact'
@@ -38,7 +37,6 @@ collections:
         slug: '{{title}}'
         fields:
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'single' }
-          - { label: 'Permalink', name: 'permalink', widget: 'hidden', default: '/contact/' }
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: 'MAPA'
@@ -47,7 +45,6 @@ collections:
         slug: '{{title}}'
         fields:
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'single' }
-          - { label: 'Permalink', name: 'permalink', widget: 'hidden', default: '/mapa/' }
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: 'Resources'
@@ -56,7 +53,6 @@ collections:
         slug: '{{title}}'
         fields:
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'single' }
-          - { label: 'Permalink', name: 'permalink', widget: 'hidden', default: '/resources/' }
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: 'Social'
