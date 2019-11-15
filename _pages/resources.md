@@ -1,4 +1,5 @@
 ---
-title: Resources
 permalink: /resources/
+title: Resources
 ---
+Is this working?
