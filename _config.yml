@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "MAPA Chachapoya"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : ""
+description              : "Mapping the relationships between BLAH."
 url                      : "https://distracted-jones-ff23dd.netlify.com"
 baseurl                  : #"/website"
 repository               : "ArcheoDani/website"
