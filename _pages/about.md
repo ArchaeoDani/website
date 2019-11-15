@@ -5,6 +5,8 @@ title: About
 
 My name is Daniela!
 
+![](/assets/uploads/nogal-planta.jpg "NOGAL")
+
 ### The Chachapoya
 
 ### Archaeology
