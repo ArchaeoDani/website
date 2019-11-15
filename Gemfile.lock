@@ -83,6 +83,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  jekyll (~> 4.0)
   jekyll-include-cache
   minimal-mistakes-jekyll
 
