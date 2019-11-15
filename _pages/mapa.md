@@ -1,5 +1,6 @@
 ---
 title: MAPA
+permalink: /mapa/
 ---
 ### Research
 
