@@ -1,5 +1,5 @@
 ---
-permalink: /resources/
 title: Resources
+permalink: /resources/
 ---
-Is this working?
+Chachapoya History, Culture, and Archaeology: A bibliography
