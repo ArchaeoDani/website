@@ -6,13 +6,21 @@ title: About
 
 **Our Purpose:** 
 
-The purpose of this page is to inform and exchange ideas with the public about our archaeological work of the Chachapoya past.
+The purpose of the MAPA Chachapoya Project is to map the relationships between people, places and ancestors of the past in the Northeastern Andes of Perú. MAPA is an ongoing dissertation project lead by a team of international researchers conducting archaeological research on the Chachapoya past.
 
-La página oficial del proyecto "Arqueología de Paisajes Mortuorios Andinos" (MAPA)
+MAPA stands for “Archaeology of Andean Mortuary Landscapes” and it also means “map” in Spanish! One of the main tools that our team uses to understand the past is mapping pre-Hispanic above-ground mortuary structures. These archaeological sites can be found across the Andes, but they are particularly important to the Chachapoya region because they can show us how different people connected with their ancestors in the past. Our website is a useful way to inform and exchange ideas with the public about this archaeological work and build our understanding of the Chachapoya past with interested communities.
 
-Esta pagina tiene como fin informar e intercambiar ideas con el público acerca de nuestros trabajos arqueológicos sobre el pasado de los Chachapoya.
+
 
 **Our Team:**
+
+The MAPA Chachapoya Project is run by a team of local Peruvian collaborators situated in the Chachapoya region, and an international archaeologist. The team is lead by Canadian-Colombian archaeologist and PhD student Daniela Maria Raillard (Northwestern University), with support from Leymebamba Museum assistant and certified guide Segundo Priciliano Aguilar Silva, registered Leymebamba Community Tourism Association guide Eyrin Chavez Chancahuana, and consultant Guidmar Chavez Llatance. All our team members have extensive experience in archaeology, tourism and heritage, and most are Spanish-English bilingual. 
+
+MAPA is a developing dissertation project and more team members are getting involved as research progresses, so stay tuned for updates!
+
+_Meet the Team!_
+
+* Daniela Maria Raillard (hBA, MA): Daniela is currently a PhD student in Northwestern University’s Anthropology program, where she is specializing in Andean archaeology. Daniela grew up in Northern Canada with her Colombian and Swiss parents, where she became interested in history, heritage and land-based work at a young age. She has spent four field seasons and over 16 months living and working in Northeastern Perú, where she met her life and research partner, Guidmar.
 
 ****
 
