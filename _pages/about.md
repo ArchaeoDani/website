@@ -10,8 +10,6 @@ The purpose of the MAPA Chachapoya Project is to map the relationships between p
 
 MAPA stands for “Archaeology of Andean Mortuary Landscapes” and it also means “map” in Spanish! One of the main tools that our team uses to understand the past is mapping pre-Hispanic above-ground mortuary structures. These archaeological sites can be found across the Andes, but they are particularly important to the Chachapoya region because they can show us how different people connected with their ancestors in the past. Our website is a useful way to inform and exchange ideas with the public about this archaeological work and build our understanding of the Chachapoya past with interested communities.
 
-
-
 **Our Team:**
 
 The MAPA Chachapoya Project is run by a team of local Peruvian collaborators situated in the Chachapoya region, and an international archaeologist. The team is lead by Canadian-Colombian archaeologist and PhD student Daniela Maria Raillard (Northwestern University), with support from Leymebamba Museum assistant and certified guide Segundo Priciliano Aguilar Silva, registered Leymebamba Community Tourism Association guide Eyrin Chavez Chancahuana, and consultant Guidmar Chavez Llatance. All our team members have extensive experience in archaeology, tourism and heritage, and most are Spanish-English bilingual. 
@@ -20,13 +18,15 @@ MAPA is a developing dissertation project and more team members are getting invo
 
 _Meet the Team!_
 
-* Daniela Maria Raillard (hBA, MA): Daniela is currently a PhD student in Northwestern University’s Anthropology program, where she is specializing in Andean archaeology. Daniela grew up in Northern Canada with her Colombian and Swiss parents, where she became interested in history, heritage and land-based work at a young age. She has spent four field seasons and over 16 months living and working in Northeastern Perú, where she met her life and research partner, Guidmar.
+* Daniela Maria Raillard (hBA, MA): Daniela is currently a PhD student in Northwestern University’s Anthropology program, where she is specializing in Andean archaeology. Daniela grew up in Northern Canada with her Colombian and Swiss parents, where she became interested in history, heritage and land-based work at a young age. She has spent four field seasons and over 16 months in Northeastern Perú, where she worked as an English teacher for young professionals, guided treks, and conducted archaeological survey and excavation.  
 
-****
+- - -
 
 **Our Logo:**
 
-****
+Our logo is in development and will be shared with you soon!
+
+- - -
 
 **Our Ethics:** 
 
@@ -36,7 +36,7 @@ _Meet the Team!_
 
 MAPA takes inspiration for this research strategy from community-based and collaborative archaeology practices (see Dr. Sonya Atalay in bibliography link). This means that MAPA is constantly involving community interests so that research about the Chachapoya past is useful for people today. 
 
-**For example:** MAPA regularly communicates with community-based tourism organizations to learn about the interests and needs of local guides. From these conversations, MAPA learned that mapping archaeological sites is an important first step for local tourism organizations to identify and begin developing local attractions. 
+**For example:** MAPA regularly communicates with community-based tourism organizations to learn about the interests and needs of local guides. From these conversations, MAPA learned that mapping archaeological sites is an important first step for local tourism organizations to identify and begin developing local attractions. 
 
 * **How is the work and contributions of community collaborators recognized?**
 
@@ -66,7 +66,8 @@ MAPA recognizes the long and painful history of looting Andean heritage since th
 
 * **How can you use MAPA content?**
 
-**Content published on the MAPA Chachapoya Facebook page and website is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. See:** [**https://creativecommons.org/licenses/by-nc-nd/4.0/**](https://creativecommons.org/licenses/by-nc-nd/4.0/)****
+**Content published on the MAPA Chachapoya Facebook page and website is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. See:** 
+[**https://creativecommons.org/licenses/by-nc-nd/4.0/**](https://creativecommons.org/licenses/by-nc-nd/4.0/)\*\*\*\*
 
 This means that you can copy and share content on different platforms (like sharing a Facebook picture or post), but you cannot alter the material without permission. MAPA content cannot be used for commercial purposes, such as selling tourism packages or other products, without written consent from the MAPA team. 
 
@@ -87,8 +88,6 @@ This Label is being used to indicate that this material has cultural and/or hist
 * **Google Analytics Statement**
 
 At this time, the MAPA Chachapoya Project does not collect information through Google Analytics. 
-
-
 
 ### The Chachapoya
 
