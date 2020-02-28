@@ -1,0 +1,44 @@
+{{ define "title" -}}
+  {{ .Title }} | {{ .Site.Title }}
+{{- end }}
+
+{{ define "header" }}
+  {{ partial "menu" . }}
+{{ end }}
+
+{{ define "main" }}
+
+<div class="columns is-fullheight">
+    <div class="column is-one-quarter">
+      <section class="section">
+        <div itemscope="" itemtype="https://schema.org/Person">
+          <h3 class="is-size-4" itemprop="name">{{ .Site.Params.name }}</h3>
+          <p class="bio">{{ .Site.Params.bio }}</p>
+          <ul class="author__urls social-icons">
+            <li itemprop="homeLocation" itemscope="" itemtype="https://schema.org/Place">
+              <a href="{{ .Site.Params.location_map }}" title="Google Map">
+              <i class="fa fa-map-marker" aria-hidden="true"></i>
+              <span itemprop="name" class="location">
+                {{ .Site.Params.location }}
+              </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </section>
+    </div>
+    <div class="column is-three-quarters">
+        <section class="hero is-default is-bold">
+            <div class="hero-body">
+                <div class="content container">
+                   {{ .Content}}
+                </div>
+                <br>
+            </div>
+        </section>
+    </div>
+</div>
+{{ end }}
+{{ define "footer" }}
+  {{ partial "footer" . }}
+{{ end }}

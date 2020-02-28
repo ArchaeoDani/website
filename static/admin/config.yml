@@ -1,0 +1,21 @@
+backend:
+  name: github
+  repo: chrisdaaz/hugo-mapa # Path to your GitHub repository
+media_folder: "static/images" # Media files will be stored in the repo under images/uploads
+collections:
+  - label: "Pages in English"
+    name: "english_posts"
+    folder: "content"
+    filter: {field: "language", value: "en"}
+    fields:
+      - {label: "Language", name: "language", widget: "select", options: ["en", "es"]}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Content", name: "body", widget: "markdown"}
+  - label: "Pages en Español"
+    name: "spanish_posts"
+    folder: "content"
+    filter: {field: "language", value: "es"}
+    fields:
+      - {label: "Lenguaje", name: "language", widget: "select", options: ["en", "es"]}
+      - {label: "Titulo", name: "title", widget: "string"}
+      - {label: "Contenido", name: "body", widget: "markdown"}
