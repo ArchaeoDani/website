@@ -1,0 +1,16 @@
+<footer class="footer">
+    <div class="container">
+        <div class="content has-text-centered">
+            <p>
+                This site is generated using
+                <a href="https://gohugo.io/">Hugo</a>, with its design
+                incorporating the
+                <a href="https://themes.gohugo.io/bulma/">Bulma</a> theme.
+                {{ if .Site.Params.powered_by }}
+                Additional support is provided by
+                  <strong><a href="{{ .Site.Params.powered_by_url }}" targe="_blank">{{.Site.Params.powered_by}}</a></strong>.
+                {{ end }}
+            </p>
+        </div>
+    </div>
+</footer>

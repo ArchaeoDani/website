@@ -1,0 +1,22 @@
+.bio {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.location {
+  padding-left: 0.5rem;
+  font-size: 75%;
+}
+
+.lang-nav {
+  background-color: #2b3e50;
+}
+
+.language-list {
+    list-style-type: none;
+    width: 144px;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

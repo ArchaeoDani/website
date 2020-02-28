@@ -1,0 +1,96 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "MAPA Chachapoya"
+theme = "bulma"
+enableRobotsTXT = true # Suggested, it generates a robots.txt
+googleAnalytics = "" # Optional, add tracking Id for analytics
+#disqusShortname = "" # Optional, add Disqus shortname for comments
+SectionPagesMenu = "main" # Enable menu system for lazy bloggers
+#paginate = 5 # Number of posts to show before paginating
+
+
+[params]
+  theme_variant = "superhero" # possible value for the theme_variant `cerulean,cosmo,cyborg,darkly,flatly,journal,litera,lumen,lux,materia,minty,pulse,sandstone,simplex,slate,solar,spacelab,superhero,united,yeti`
+  description = "Archaeology of Andean Mortuary Landscapes. " # Suggested, controls default description meta and landing page
+  powered_by = "Northwestern University Libraries" # Optional, controls name display on footer
+  powered_by_url = "https://www.library.northwestern.edu/research/scholarly/digital-publishing.html"
+  hide_author = false # Optional, set true to hide author name on posts
+  images = [] # Suggested, controls default OpenGraph images controls author name display on meta tag
+  #github  = "github" # Optional, to display link to github account in menu bar
+  #twitter = "MAPAchachapoya" # Optional, to display link to twitter account in menu bar
+  facebook = "MAPAchachapoya"
+  name = "MAPA Chachapoya"
+  #avatar = "" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio = "Arqueología de Paisajes Mortuorios Andinos - Archaeology of Andean Mortuary Landscapes"
+  location = "Leymebamba, Amazonas, Perú"
+  location_map = "https://goo.gl/maps/zRuxtmwJxsho8ehA6"
+  #email = ""
+
+DefaultContentLanguage = "en"
+
+[[menu.main]]
+  name = "About"
+  weight = 1
+  identifier = "about"
+[[menu.main]]
+  name = "Blog"
+  weight = 2
+  identifier = "blog"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+  [[languages.en.menu.main]]
+    url = "/mapa/"
+    name = "MAPA"
+    weight = 1
+  [[languages.en.menu.main]]
+    url = "/about/"
+    name = "About"
+    weight = 2
+  [[languages.en.menu.main]]
+    url = "/blog/"
+    name = "blog"
+    weight = 3
+  [[languages.en.menu.main]]
+    url = "/resources/"
+    name = "Resources"
+    weight = 4
+  [[languages.en.menu.main]]
+    url = "/social/"
+    name = "Social"
+    weight = 5
+  [[languages.en.menu.main]]
+    url = "/contact/"
+    name = "Contact"
+    weight = 6
+
+
+  [languages.es]
+    languageName = "Español"
+    weight = 2
+  [[languages.es.menu.main]]
+    url = "/es/mapa/"
+    name = "MAPA"
+    weight = 1
+  [[languages.es.menu.main]]
+    url = "/es/sobré/"
+    name = "Sobré"
+    weight = 2
+  [[languages.es.menu.main]]
+    url = "/es/blog/"
+    name = "blog"
+    weight = 3
+  [[languages.es.menu.main]]
+    url = "/es/recursos/"
+    name = "Recursos"
+    weight = 4
+  [[languages.es.menu.main]]
+    url = "/es/sociales/"
+    name = "Sociales"
+    weight = 5
+  [[languages.es.menu.main]]
+    url = "/es/contacto/"
+    name = "Contacto"
+    weight = 6
