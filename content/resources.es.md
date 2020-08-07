@@ -1,6 +1,6 @@
 ---
-title: "Resources"
-slug: "recursos"
+title: Recursos
+slug: recursos
 language: es
 ---
-Chachapoya History, Culture, and Archaeology: A bibliography
+Una bibliografía de la historia, cultura y arqueología Chachapoya
