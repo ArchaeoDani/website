@@ -1,14 +1,12 @@
 ---
-slug: "/es/"
-title: "Inicio"
+slug: /es/
 language: es
+title: Inicio
 ---
-
-
 {{< gallery >}}
   {{< figure link="/images/saltesipuedes.jpg" caption="Salte Si Puedes Mausolea" >}}
-  {{< figure link="/images/tower.jpg" caption="Chivane Burial Tower" >}}
-  {{< figure link="/images/sanjeronimo.jpg" caption="Purunmachu Sarcophagi at San Jeronimo" >}}
+  {{< figure link="/images/tower.jpg" caption="Torre Funeraria de Chivane" >}}
+  {{< figure link="/images/sanjeronimo.jpg" caption="Los Sarcofagos (Purunmachu) de San Jeronimo" >}}
 {{< /gallery >}}{{< load-photoswipe >}}
 
-Funerary structures (locally known as chullpa) in the northeastern Andes of Perú
+Estructuras funerarias (conocidos como chullpa por la comunidad local) en los Andes norrorientes del Perú.
