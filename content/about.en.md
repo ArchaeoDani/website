@@ -1,7 +1,7 @@
 ---
-slug: "about"
-title: "About"
+slug: about
 language: en
+title: About
 ---
 ### The Project
 
@@ -17,7 +17,7 @@ The MAPA Chachapoya Project is run by a team of local Peruvian collaborators sit
 
 MAPA is a developing dissertation project and more team members are getting involved as research progresses, so stay tuned for updates!
 
-_Meet the Team!_
+*Meet the Team!*
 
 * Daniela Maria Raillard (hBA, MA): Daniela is currently a PhD student in Northwestern University’s Anthropology program, where she is specializing in Andean archaeology. Daniela grew up in Northern Canada with her Colombian and Swiss parents, where she became interested in history, heritage and land-based work at a young age. She has spent four field seasons and over 16 months in Northeastern Perú, where she worked as an English teacher for young professionals, guided treks, and conducted archaeological survey and excavation.  
 
@@ -25,7 +25,7 @@ _Meet the Team!_
 
 **Our Logo:**
 
-Our logo is in development and will be shared with you soon!
+![](/static/images/logo-design-8.png "Logo by: Ahalya Mandana")
 
 - - -
 
@@ -45,7 +45,7 @@ MAPA takes inspiration for this research strategy from community-based and colla
 
 In fact, most people involved in MAPA are part of the local and descendant community. When research is shared, MAPA uses the following statement to recognize the work of community collaborators in online and offline spaces:
 
-_“MAPA would like to acknowledge the contributions of our communities of collaborators who are crucial to the project, in the field through the assistance of guides, landowners, cooks and hospitality providers, and online through our Facebook supporters.”_
+*“MAPA would like to acknowledge the contributions of our communities of collaborators who are crucial to the project, in the field through the assistance of guides, landowners, cooks and hospitality providers, and online through our Facebook supporters.”*
 
 **For example:** General public and academic presentations include an acknowledgement of community work and contributions on a PowerPoint slide. The names and contribution of particular community collaborators, like guides or research assistants, are verbally mentioned in presentations.
 
@@ -68,7 +68,7 @@ MAPA recognizes the long and painful history of looting Andean heritage since th
 * **How can you use MAPA content?**
 
 **Content published on the MAPA Chachapoya Facebook page and website is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. See:**
-[**https://creativecommons.org/licenses/by-nc-nd/4.0/**](https://creativecommons.org/licenses/by-nc-nd/4.0/)\*\*\*\*
+**<https://creativecommons.org/licenses/by-nc-nd/4.0/>**\*\*\*\*
 
 This means that you can copy and share content on different platforms (like sharing a Facebook picture or post), but you cannot alter the material without permission. MAPA content cannot be used for commercial purposes, such as selling tourism packages or other products, without written consent from the MAPA team.
 
