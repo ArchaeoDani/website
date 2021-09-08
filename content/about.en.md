@@ -19,7 +19,7 @@ MAPA is a developing dissertation project and more team members are getting invo
 
 *Meet the Team!*
 
-* Daniela Maria Raillard (hBA, MA): Daniela is currently a PhD student in Northwestern University’s Anthropology program, where she is specializing in Andean archaeology. Daniela grew up in Northern Canada with her Colombian and Swiss parents, where she became interested in history, heritage and land-based work at a young age. She has spent four field seasons and over 16 months in Northeastern Perú, where she worked as an English teacher for young professionals, guided treks, and conducted archaeological survey and excavation.  
+* Daniela Maria Raillard (hBA, MA): Daniela is currently a PhD candidate at Northwestern University in the Department of Anthropology, where she is specializing in Andean archaeology. Daniela grew up in Northern Canada with her Colombian and Swiss parents, where she became interested in history, heritage and land-based work at a young age. She has spent four field seasons and over 16 months in Northeastern Perú, where she worked as an English teacher for young professionals, guided treks, and conducted archaeological survey and excavation.  
 
 - - -
 
