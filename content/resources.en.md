@@ -3,4 +3,4 @@ title: Resources
 slug: resources
 language: en
 ---
-Project Investigator Website: <https://danielamra3.wixsite.com/daniela>
+You can learn more about Daniela's work through her personal website: <https://danielamra3.wixsite.com/daniela>
