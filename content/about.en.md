@@ -13,13 +13,13 @@ MAPA stands for “Archaeology of Andean Mortuary Landscapes” and it also mean
 
 **Our Team:**
 
-The MAPA Chachapoya Project is run by a team of local Peruvian collaborators situated in the Chachapoya region, and an international archaeologist. The team is lead by Canadian-Colombian archaeologist and PhD student Daniela Maria Raillard (Northwestern University), with support from Leymebamba Museum assistant and certified guide Segundo Priciliano Aguilar Silva, registered Leymebamba Community Tourism Association guide Eyrin Chavez Chancahuana, and consultant Guidmar Chavez Llatance. All our team members have extensive experience in archaeology, tourism and heritage, and most are Spanish-English bilingual.
+The MAPA Chachapoya Project is run by a team of local Peruvian collaborators situated in the Chachapoya region, and an international archaeologist. The team is lead by Canadian-Colombian archaeologist and PhD Candidate Daniela Maria Raillard Arias (Northwestern University), with support from Leymebamba Museum assistant and certified guide Segundo Priciliano Aguilar Silva, registered Leymebamba Community Tourism Association guide Eyrin Chavez Chancahuana, and consultant Guidmar Chavez Llatance. All our team members have extensive experience in archaeology, tourism and heritage, and most are Spanish-English bilingual.
 
 MAPA is a developing dissertation project and more team members are getting involved as research progresses, so stay tuned for updates!
 
 *Meet the Team!*
 
-* Daniela Maria Raillard (hBA, MA): Daniela is currently a PhD candidate at Northwestern University in the Department of Anthropology, where she is specializing in Andean archaeology. Daniela grew up in Northern Canada with her Colombian and Swiss parents, where she became interested in history, heritage and land-based work at a young age. She has spent four field seasons and over 16 months in Northeastern Perú, where she worked as an English teacher for young professionals, guided treks, and conducted archaeological survey and excavation.  
+* Daniela Maria Raillard Arias (hBA, MA): Daniela is currently a PhD candidate at Northwestern University in the Department of Anthropology, where she is specializing in Andean archaeology. Daniela grew up in Northern Canada with her Colombian and Swiss parents, where she became interested in history, heritage and land-based work at a young age. She has spent four field seasons and over 16 months in Northeastern Perú, where she worked as an English teacher for young professionals, guided treks, and conducted archaeological survey and excavation.  
 
 - - -
 
